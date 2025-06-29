@@ -35,6 +35,3 @@ You can view these docs as a website using [GitHub Pages](https://pages.github.c
 
 ## 📝 Contributing
 Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-MIT

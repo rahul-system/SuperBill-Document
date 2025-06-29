@@ -9,7 +9,7 @@ Welcome to the SuperBill-Document site!
 - [Delivery Challan](Delivery%20Challan.md)
 - [Estimate](Estimate.md)
 - [Expense](Expense.md)
-- [ITC & Reverse Charge (Purchase Txn)](ITC%20%26%20Reverse%20Charge%20%28Purchase%20Txn%29.md)
+- [ITC & Reverse Charge](ITC%20%26%20Reverse%20Charge.md)
 - [Purchase Invoice](Purchase%20Invoice.md)
 - [Purchase Order](Purchase%20Order.md)
 - [Purchase Return](Purchase%20Return.md)
