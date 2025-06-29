@@ -151,4 +151,3 @@ Example:
 - 🔄 Always reconcile GSTR-2B with Purchase Register before claiming ITC.
 - ⚠️ Don't claim ITC on blocked goods/services (Section 17(5)).
 - 📅 File on time: Delayed returns = lost ITC (Section 16(4) time limit).
-

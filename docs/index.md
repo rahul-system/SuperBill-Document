@@ -14,7 +14,7 @@ Welcome to the SuperBill-Document site!
 - [Purchase Order](Purchase%20Order.md)
 - [Purchase Return](Purchase%20Return.md)
 - [Expense](Expense.md)
-- [ITC & Reverse Charge](ITC-ReverseCharge.md)
+- [ITC & Reverse Charge](ITC_ReverseCharge.md)
 - [Composition Scheme Impact](Composition%20Scheme%20Impact.md)
 
 ---
