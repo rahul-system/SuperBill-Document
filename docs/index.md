@@ -16,6 +16,7 @@ Welcome to the SuperBill-Document site!
 - [Expense](Expense.md)
 - [ITC & Reverse Charge](ITC_ReverseCharge.md)
 - [Composition Scheme Impact](Composition%20Scheme%20Impact.md)
+- [GSTR-1](GSTR-1.md)
 
 ---
 

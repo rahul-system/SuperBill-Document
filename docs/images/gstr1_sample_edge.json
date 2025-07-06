@@ -1,0 +1,231 @@
+{
+  "gstin": "27ABCDE1234F1Z5",
+  "fp": "072024",
+  "gt": 10000000,
+  "cur_gt": 1200000,
+  "b2b": [
+    {
+      "ctin": "27XYZDE5678G1Z2",
+      "inv": [
+        {
+          "inum": "INV-1001",
+          "idt": "2024-07-05",
+          "val": 118000,
+          "pos": "27",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "rt": 18,
+              "txval": 100000,
+              "camt": 9000,
+              "samt": 9000,
+              "iamt": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2ba": [
+    {
+      "ctin": "27XYZDE5678G1Z2",
+      "inv": [
+        {
+          "oinum": "INV-0999",
+          "idt": "2024-06-28",
+          "inum": "INV-1000",
+          "idt_new": "2024-07-02",
+          "pos": "27",
+          "val": 113000,
+          "itms": [
+            {
+              "rt": 18,
+              "txval": 95000,
+              "camt": 8550,
+              "samt": 8550,
+              "iamt": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "b2cl": [
+    {
+      "pos": "33",
+      "inv": [
+        {
+          "inum": "B2CL-0001",
+          "idt": "2024-07-15",
+          "val": 300000,
+          "itms": [
+            {
+              "rt": 18,
+              "txval": 254238,
+              "iamt": 45762
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exp": [
+    {
+      "exp_typ": "WPAY",
+      "inv": [
+        {
+          "inum": "EXP-0002",
+          "idt": "2024-07-19",
+          "val": 200000,
+          "itms": [
+            {
+              "rt": 18,
+              "txval": 200000,
+              "iamt": 36000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exp_typ": "WOPAY",
+      "inv": [
+        {
+          "inum": "EXP-0001",
+          "idt": "2024-07-18",
+          "val": 500000,
+          "itms": [
+            {
+              "rt": 0,
+              "txval": 500000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cdnr": [
+    {
+      "ctin": "27XYZDE5678G1Z2",
+      "nt": [
+        {
+          "nt_num": "CDNR-0001",
+          "nt_dt": "2024-07-20",
+          "p_gst": "N",
+          "nt_typ": "C",
+          "val": -11800,
+          "itms": [
+            {
+              "rt": 18,
+              "txval": -10000,
+              "camt": -900,
+              "samt": -900
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cdnur": [
+    {
+      "nt": [
+        {
+          "nt_num": "CDNUR-0001",
+          "nt_dt": "2024-07-22",
+          "typ": "B2CL",
+          "val": -5900,
+          "itms": [
+            {
+              "rt": 18,
+              "txval": -5000,
+              "camt": -450,
+              "samt": -450
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "at": [
+    {
+      "pos": "27",
+      "itms": [
+        {
+          "rcm": "N",
+          "txval": 20000,
+          "camt": 1800,
+          "samt": 1800,
+          "rt": 18
+        }
+      ]
+    }
+  ],
+  "ata": [
+    {
+      "pos": "27",
+      "itms": [
+        {
+          "ad_amt": 20000,
+          "camt": 1800,
+          "samt": 1800,
+          "rt": 18
+        }
+      ]
+    }
+  ],
+  "hsn": {
+    "data": [
+      {
+        "num": "8471",
+        "desc": "Personal Computer",
+        "uqc": "NOS",
+        "qty": 10,
+        "val": 500000,
+        "iamt": 36000,
+        "camt": 0,
+        "samt": 0,
+        "csamt": 0
+      },
+      {
+        "num": "9983",
+        "desc": "IT Services",
+        "uqc": "NOS",
+        "qty": 5,
+        "val": 100000,
+        "iamt": 0,
+        "camt": 9000,
+        "samt": 9000,
+        "csamt": 0
+      }
+    ]
+  },
+  "doc_issue": {
+    "doc_det": [
+      {
+        "doc_typ": "INV",
+        "from": 1001,
+        "to": 1002,
+        "totnum": 2,
+        "cancel": 0,
+        "net_issued": 2
+      },
+      {
+        "doc_typ": "DN",
+        "from": 1,
+        "to": 1,
+        "totnum": 1,
+        "cancel": 0,
+        "net_issued": 1
+      },
+      {
+        "doc_typ": "CN",
+        "from": 1,
+        "to": 2,
+        "totnum": 2,
+        "cancel": 0,
+        "net_issued": 2
+      }
+    ]
+  }
+}
